@@ -1,12 +1,16 @@
 #main-content{
 	height: 80vh;
 	padding-bottom: 3%;
+	line-height:1.8em;
+	font-weight:300;
+	word-spacing: 0.15em;
 }
 
 #header{
 	font-family: 'Amatic SC', cursive;
-	font-size: 10em;
+	font-size: 12em;
 	text-decoration: underline;
+	height: 40vh;
 }
 
 .nav{
