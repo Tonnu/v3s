@@ -1,0 +1,15 @@
+#main-content{
+	height: 80vh;
+	padding-bottom: 3%;
+}
+
+#header{
+	font-family: 'Amatic SC', cursive;
+	font-size: 10em;
+	text-decoration: underline;
+}
+
+.nav{
+	font-family: 'Amatic SC', cursive;
+	font-size:2em;
+}
