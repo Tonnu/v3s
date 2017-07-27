@@ -13,7 +13,18 @@
 	height: 40vh;
 }
 
+#header-about-us{
+	font-family: 'Amatic SC', cursive;
+	font-size: 8em;
+	text-decoration: underline;
+	height: 40vh;
+}
+
 .nav{
 	font-family: 'Amatic SC', cursive;
 	font-size:2em;
+}
+
+u{
+	font-size:1.10em;
 }

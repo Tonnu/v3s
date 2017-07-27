@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html class=no-js>
+   <head>
+      <meta charset=utf-8>
+      <title>v3s</title>
+      <meta name=description content="v3s.nl">
+      <meta name=viewport content="width=device-width">
+      <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+      <link rel=stylesheet href=styles/main.css>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+      <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+
+   <body>
+      <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      <![endif]-->
+
+      <div class="container-fluid main-container">
+         <ul class="nav">
+         <li class="nav-item">
+            <a class="nav-link active" href="https://v3s.nl">Home</a>
+         </li>
+         <li class="nav-item">
+            <a class="nav-link" href="about-us">About us</a>
+         </li>
+      </ul>
+         <div class="row justify-content-center" id="header-about-us">
+            About Us
+         </div>
+         <div class="row justify-content-center" id="main-content">
+            <div class="col-md-5 col-lg-4">
+              
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
