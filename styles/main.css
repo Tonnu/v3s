@@ -11,7 +11,11 @@
 	font-family: 'Amatic SC', cursive;
 	font-size: 12em;
 	text-decoration: underline;
-	height: 40vh;
+}
+
+#subheader{
+	height: 10vh;
+
 }
 
 #header-about-us{
